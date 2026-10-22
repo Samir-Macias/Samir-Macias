@@ -60,14 +60,14 @@ Aplicación nativa para Android desarrollada en Kotlin que permite consultar inf
 
 | Inicio | Agentes | Detalle de Habilidades | Vista en Tablet |
 |:---:|:---:|:---:|:---:|
-| <img src="./assets/captura_home.jpeg" width="180"> | <img src="./assets/captura_agentes.jpeg" width="180"> | <img src="./assets/captura_popup.jpeg" width="180"> | <img src="./assets/captura_vistatablet.jpg" width="300"> |
+| <img src="./assets/captura_home.jpeg" width="180"> | <img src="./assets/captura_agentes.jpeg" width="180"> | <img src="./assets/captura_popup.jpeg" width="180"> | <img src="./assets/captura_vistatablet.png" width="300"> |
 
 #### 📇 Tarjeta de Presentación Digital (Android / Kotlin)
 Aplicación móvil que funciona como un portafolio profesional interactivo. Incluye soporte dinámico para modo claro y oscuro, facilitando el acceso a mi repositorio de GitHub, perfil de LinkedIn y la descarga directa de mi CV en PDF mediante códigos QR y botones de acción.
 
 | Modo Claro | Modo Oscuro |
 |:---:|:---:|
-| <img src="./assets/captura_modo_claro.jpg" width="200"> | <img src="./assets/captura_modo_oscuro.jpg" width="200"> |
+| <img src="./assets/captura_modo_claro.png" width="200"> | <img src="./assets/captura_modo_oscuro.png" width="200"> |
 
 #### ⚙️ Otros Desarrollos
 *   📈 **DevMetrics API:** API RESTful en Spring Boot y Java 21 para el cálculo de métricas de productividad de desarrolladores.
